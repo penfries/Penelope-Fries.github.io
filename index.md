@@ -10,17 +10,14 @@ header:
       url: "/portfolio/"
 excerpt: "Penelope Fries is a Chemical Engineering Student with a passion for sustainable energy. She is minoring in Environmental Engineering and hopes to pursue a career in environemntally friendsly alternative energies."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+  - image_path: /assets/img/fusion_group.jpg
+    alt: "Fusion Project"
+    title: "Vanderbilt Fusion Project"
+    excerpt: "A group of undergrads collaborating to build a working fusion reactor."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "placeholder image 2"
     title: "DIY Plasma Cutter"
     excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
 ---
 
 {% include feature_row %}
