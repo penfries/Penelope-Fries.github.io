@@ -14,10 +14,10 @@ feature_row:
     alt: "Fusion Project"
     title: "Vanderbilt Fusion Project"
     excerpt: "A group of undergrads collaborating to build a working fusion reactor."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+  - image_path: /assets/img/lab_pic.jpg
+    alt: "Membrane Diagram"
+    title: "Lin Research Group"
+    excerpt: "Penny is an Undergraduate Assistant for the Lin Research Group."
 ---
 
 {% include feature_row %}
