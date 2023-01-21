@@ -1,5 +1,5 @@
 ---
-title: "Tha Vanderbilt Fusion Project"
+title: "The Vanderbilt Fusion Project"
 excerpt: "The Vanderbilt Fusion Project is a transformative, cross-disciplinary engineering project team and research initiative."
 header:
   image: /assets/img/fusion_group.jpg
