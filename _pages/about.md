@@ -24,4 +24,4 @@ Penelope has experience with the following:
 * Microsoft Office
 
 
-![David Florian](/assets/img/David_Headshot_web2.jpg)
+![Penelope Fries](/assets/img/headshot.jpg)
